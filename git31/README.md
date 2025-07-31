@@ -1,3 +1,3 @@
-## Expanding the ESLint configuration
+ ESLint configuration
 
 
